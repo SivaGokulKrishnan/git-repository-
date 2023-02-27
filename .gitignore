@@ -1,0 +1,5 @@
+#!/bin/bash
+
+*.class
+*.settings
+*.project
